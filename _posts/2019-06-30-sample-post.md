@@ -31,11 +31,3 @@ Phasellus eget dolor sit amet ipsum dapibus condimentum vitae quis lectus. Aliqu
 [^1]: 
     {% include citation.html key="ref1" %}
 
-
-<script src="https://utteranc.es/client.js"
-        repo="rachel-kwak/rachel-kwak.github.io"
-        issue-term="og:title"
-        theme="github-light"
-        crossorigin="anonymous"
-        async>
-</script>
