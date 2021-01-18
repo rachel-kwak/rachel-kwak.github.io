@@ -46,4 +46,4 @@ exclude: [".jekyll-cache", ".idea", "vendor/*", "assets/node_modules"]
 remote_theme: sylhare/Type-on-Strap                     # If using as a remote_theme in github
 
 # Disqus
-# disqus_shortname: rachel-kwak
+disqus_shortname: rachel-kwak
