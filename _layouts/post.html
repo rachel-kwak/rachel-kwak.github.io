@@ -33,13 +33,7 @@ layout: default
 </article>
 
 <!-- Utterance -->
-<script src="https://utteranc.es/client.js"
-        repo="rachel-kwak/rachel-kwak.github.io"
-        issue-term="og:title"
-        theme="github-light"
-        crossorigin="anonymous"
-        async>
-</script>
+{% include utterances.html %}
 
 <!-- Disqus -->
 {% if site.disqus_shortname or site.theme_settings.disqus_shortname %}
