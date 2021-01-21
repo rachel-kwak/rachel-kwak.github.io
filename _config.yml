@@ -26,7 +26,7 @@ katex: true                                             # Enable if using math m
 mermaid: true                                           # Enable mermaid-js for sequence and diagrams
 google_analytics:                                       # Tracking ID, e.g. "UA-000000-01"
 cookie_consent: false                                   # To respect the usage of cookies
-disqus_shortname:                                       # Your discus shortname for comments
+# disqus_shortname: rachel-kwak                         # Your discus shortname for comments
 
 # PAGINATION
 paginate: 5
@@ -45,5 +45,3 @@ exclude: [".jekyll-cache", ".idea", "vendor/*", "assets/node_modules"]
 # theme: type-on-strap                                  # if using the theme as a jekyll theme gem
 remote_theme: sylhare/Type-on-Strap                     # If using as a remote_theme in github
 
-# Disqus
-# disqus_shortname: rachel-kwak
