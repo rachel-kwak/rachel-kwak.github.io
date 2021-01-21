@@ -3,10 +3,10 @@ baseurl: "/"
 url: "https://rachel-kwak.github.io"
 
 # THEME-SPECIFIC CONFIGURATION
-title: EunJeong Kwak (Rachel)                                    # site's title
+title: EunJeong Kwak                # site's title
 description: "Developer @ NHN"      # used by search engines
-avatar: assets/img/avatar.png                         # Empty for no avatar in navbar
-favicon: assets/favicon.ico                             # Icon displayed in the tab
+avatar: assets/img/avatar.png       # Empty for no avatar in navbar
+favicon: assets/favicon.ico         # Icon displayed in the tab
 
 # Header and footer text
 header_text: Hello, world!  # Change Blog header text
