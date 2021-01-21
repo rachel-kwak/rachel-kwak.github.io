@@ -32,9 +32,12 @@ layout: default
 
 </article>
 
-<!-- Disqus -->
+<!-- Comments -->
 {% if site.disqus_shortname or site.theme_settings.disqus_shortname %}
-{% include disqus.html %}{% endif %}
+  {% include disqus.html %}
+{% else %}
+  {% include utterances.html %}
+{% endif %}
 
 <!-- Post navigation -->
 {% if site.post_navigation  or site.theme_settings.post_navigation %}

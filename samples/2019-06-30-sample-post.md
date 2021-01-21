@@ -30,3 +30,4 @@ Phasellus eget dolor sit amet ipsum dapibus condimentum vitae quis lectus. Aliqu
 
 [^1]: 
     {% include citation.html key="ref1" %}
+

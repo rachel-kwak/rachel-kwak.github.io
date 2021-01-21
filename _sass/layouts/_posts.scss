@@ -5,6 +5,10 @@
   width: 100%;
 }
 
+.utterances {
+  max-width: 100% !important;
+}
+
 article {
   @extend .comments;
 
