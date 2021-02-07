@@ -1,13 +1,13 @@
 ---
 layout: post
-title: JavaScript 기초 w/김성호 책임님
+title: JavaScript 기초
 tags: [NHN, 신입사원, 기술교육, 베이스캠프, 자바스크립트, JavaScript]
 color: rgb(229, 64, 54)
 excerpt_seperator: <!--more-->
 
 ---
 
-아래 내용은 2021-02-04(목) 10:30~17:00 교육을 요약한 것입니다.
+아래 내용은 2021-02-04(목) 10:30~17:00 김성호 책임님이 진행한 교육을 요약한 것입니다.
 
 <br>
 
