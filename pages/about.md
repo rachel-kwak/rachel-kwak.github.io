@@ -27,16 +27,16 @@ I'm a junior S/W developer from NHN Corp.
 ### Experience
 
 🇨🇦 𝟚𝟘𝟙𝟟.𝟘𝟛 ~ 𝟚𝟘𝟙𝟠.𝟘𝟛 <br>
-&nbsp;|ㅤWork and Travel in Vancouver & Banff
+&nbsp;&nbsp;|&nbsp;&nbsp;Work and Travel in Vancouver & Banff
 
 🇩🇪 𝟚𝟘𝟙𝟠.𝟘𝟡 ~ 𝟚𝟘𝟙𝟡.𝟘𝟚 <br>
-&nbsp;|ㅤAustauschschülerin der Hochschule Ulm (Infomatik)
+&nbsp;&nbsp;|&nbsp;&nbsp;Austauschschülerin der Hochschule Ulm (Infomatik)
 
 📖 𝟚𝟘𝟚𝟘.𝟘𝟙 ~ 𝟚𝟘𝟚𝟘.𝟙𝟚 <br>
-&nbsp;|ㅤSamsung SW Academy For Youth (SSAFY)
+&nbsp;&nbsp;|&nbsp;&nbsp;Samsung SW Academy For Youth (SSAFY)
 
 👩🏻‍💻 𝟚𝟘𝟚𝟙.𝟘𝟙 ~ <br>
-&nbsp;|ㅤSoftware Developer @ NHN Corp.
+&nbsp;&nbsp;|&nbsp;&nbsp;Software Developer @ NHN Corp.
 
 🔜 𝗪𝗵𝗮𝘁’𝘀 𝗻𝗲𝘅𝘁?
 
