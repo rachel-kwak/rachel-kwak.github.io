@@ -3,7 +3,7 @@ layout: page
 title: About
 permalink: /about/
 color: rgb(229, 64, 54)
-tags: [About, Archive]
+tags: [About, EunJeong]
 ---
 
 
