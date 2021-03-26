@@ -8,13 +8,15 @@ tags: [About, EunJeong]
 
 
 
-# 은정 ʀᴀᴄʜᴇʟ
+# EunJeong Kwak (ʀᴀᴄʜᴇʟ)
 
 📍 𝚂𝚎𝚘𝚞𝚕, 𝚂𝚘𝚞𝚝𝚑 𝙺𝚘𝚛𝚎𝚊
 
 <br>
 
 ### 안녕하세요! 👋
+
+<img src="https://github.com/rachel-kwak/rachel-kwak.github.io/blob/master/assets/img/avatar.png?raw=true">
 
 NHN 협업서비스개발실의 주니어 개발자입니다 :)
 
