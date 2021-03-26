@@ -8,22 +8,38 @@ tags: [About, EunJeong]
 
 
 
-# Hi, I'm EunJeong Kwak.
+## 은정 ʀᴀᴄʜᴇʟ
+📍 Seoul, South Korea
 
-<br>NHN 협업서비스개발실의 주니어 개발자입니다 :) 🍒
+<br>
+
+### 안녕하세요! 👋
+
+NHN 협업서비스개발실의 주니어 개발자입니다 :)
 
 I'm a junior S/W developer from NHN Corp.
 
 <br>
 
-🔭 I’m currently working on **NHN Rookie 8th Basecamp Project**.
+### Experience
 
-🌱 I’m currently learning **JavaScript, SpringBoot, and so on**.
+🇨🇦 𝟚𝟘𝟙𝟟.𝟘𝟛 ~ 𝟚𝟘𝟙𝟠.𝟘𝟛 
+ |   Work and Travel in Vancouver & Banff
+🇩🇪 𝟚𝟘𝟙𝟠.𝟘𝟡 ~ 𝟚𝟘𝟙𝟡.𝟘𝟚
+ |   Austauschschülerin der Hochschule Ulm (Infomatik)
+📖 𝟚𝟘𝟚𝟘.𝟘𝟙 ~ 𝟚𝟘𝟚𝟘.𝟙𝟚 
+ |   Samsung SW Academy For Youth (SSAFY)
+👩🏻‍💻 𝟚𝟘𝟚𝟙.𝟘𝟙 ~ 
+ |   Software Developer @ NHN Corp.
+🔜 𝗪𝗵𝗮𝘁’𝘀 𝗻𝗲𝘅𝘁?
 
-⚡ Fun fact: I AM A CAFFEINE ADDICT!
+ℬℯ𝓉𝓉ℯ𝓇 𝓁𝒶𝓉ℯ 𝓉𝒽𝒶𝓃 𝓃ℯ𝓋ℯ𝓇. ✨
 
 <br>
 
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:iamkkwak@gmail.com)](mailto:iamkkwak@gmail.com) [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://eun-jeong.tistory.com)](https://eun-jeong.tistory.com) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/eun-jeong)](www.linkedin.com/in/eun-jeong) [![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/kwakeunjeong2)](https://www.facebook.com/kwakeunjeong2)
+### More?
+
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:iamkkwak@gmail.com)](mailto:iamkkwak@gmail.com) [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://eun-jeong.tistory.com)](https://eun-jeong.tistory.com) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/eun-jeong)](https://www.linkedin.com/in/eun-jeong) [![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/kwakeunjeong2)](https://www.facebook.com/kwakeunjeong2)
 
 <br>
+
