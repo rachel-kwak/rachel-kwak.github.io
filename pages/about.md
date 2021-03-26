@@ -26,7 +26,8 @@ I'm a junior S/W developer from NHN Corp.
 
 ### Experience
 
-🇨🇦 𝟚𝟘𝟙𝟟.𝟘𝟛 ~ 𝟚𝟘𝟙𝟠.𝟘𝟛 <br>&nbsp;|ㅤWork and Travel in Vancouver & Banff
+🇨🇦 𝟚𝟘𝟙𝟟.𝟘𝟛 ~ 𝟚𝟘𝟙𝟠.𝟘𝟛 <br>
+&nbsp;|ㅤWork and Travel in Vancouver & Banff
 
 🇩🇪 𝟚𝟘𝟙𝟠.𝟘𝟡 ~ 𝟚𝟘𝟙𝟡.𝟘𝟚 <br>
 &nbsp;|ㅤAustauschschülerin der Hochschule Ulm (Infomatik)
