@@ -1,8 +1,7 @@
 ---
 layout: page
 title: About
-permalink: /about/
-color: rgb(229, 64, 54)
+permalink: /about
 tags: [About, EunJeong]
 ---
 
